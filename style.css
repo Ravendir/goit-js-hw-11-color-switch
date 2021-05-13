@@ -1,0 +1,15 @@
+.btnCont {
+  display: flex;
+  justify-content: center;
+  margin-top: 50vh;
+}
+
+.btnStart {
+  margin-right: 25px;
+}
+
+.btnAll {
+  width: 100px;
+  height: 40px;
+  border-radius: 50%;
+}
